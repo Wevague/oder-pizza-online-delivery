@@ -1,0 +1,345 @@
+.header{
+    width: 1536px;
+    height: 60px;
+}
+body{
+    margin: 0;
+    font-family: Open Sans,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;;
+}
+.second-pic{
+    width: 155px;
+    height: 400px;
+    
+}
+.image{
+    width: 155px;
+    height: 30px;
+    margin-left: 241px;
+    margin-top: 33px;
+    position: absolute;
+}
+.button{
+    margin-left: 1242px;
+    margin-top: -18px;
+    font-size: 14px;
+
+}
+.second{
+    width: 1536px;
+    height: 400px;
+    margin-top: 22px;
+    
+}
+.container {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin: 30px;
+  }
+  
+  .box {
+    width: 473px;
+    height: 209.6px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 506px;
+    background: #fff;
+    margin-top: -82px;
+    box-shadow: -2px 23px 26px #cfd9e3;
+}
+  
+  
+  .overlay {
+    z-index: 9;
+    margin: 30px;
+    background: #009938;
+  }
+  .grid{
+    display: flex; 
+    margin-left: 250px;
+
+}
+.image-div{
+    width: 100%;
+    height: 350px;
+    
+}
+.second-image{
+    width: 100%;
+    height: 350px;
+    margin-left: 10px;
+    
+
+}
+.line{
+    margin-left: -9px;
+    font-size: 1.6rem;
+    color: #231f20;
+    font-weight: bold;
+    align-items: center;
+    display: flex;
+}
+.buttontwo{
+    width: 69.7%;
+    height: 55px;
+    margin-left: 250px;
+    border-radius: 5px;
+    background: #0a8020;
+    margin-top: 10px;
+    border-color: #0a8020;
+    font-size: 1.2rem;
+    color: white;
+    cursor: pointer;
+   
+}
+.footer{
+    width: 1536px;
+    height: 537.05px;
+    background:#000;
+    margin-top: 40px;
+}
+.button-css:hover{
+    color: black;
+}
+
+.button-css{
+    background-color: white;
+    margin-top: 46px;
+    border-color: white;
+    color: rgb(107, 110, 121);;
+}
+.option {
+    width: 195.733px;
+    height: 62px;
+    position: relative;
+    margin: 30px;
+    background: #fff;
+    margin-top: -135px;
+    margin-left: 536px;
+    border-radius: 5px;
+    display: block;
+  }
+  .overlay{
+    position: absolute;
+    top: 0;
+    margin-top: 5px;
+    margin-left: 90px;
+    color:#da291c;
+    background: #fff;
+    font-size: 1.1rem;
+    font-weight: 400;
+    font-family: Sharp Sans Semibold Display No1,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+  }
+ 
+  .option2{
+    width: 274.7px;
+    height:  52px;
+    position: relative;
+    margin: 30px;
+    background: #d9dde3;;
+    margin-top: -79px;
+    margin-left: 734px;
+    border-radius: 5px;
+  }
+  .hai{
+    margin-top: -20px;
+    padding-top: 15px;
+    padding-left: 96px;
+    color: #454545;
+    font-size: 1.1rem;
+   
+}
+  .bike{
+    width: 19%;
+  margin-left: 48px;
+  margin-top: 12px;
+  }
+  .box-text{
+    color:black;
+    width: 100px;
+    
+  }
+  .anim{
+    width: 16%;  
+    margin-top: -47px;
+   
+    margin-left: 52px;
+  
+    
+  }
+  .word{
+    position: relative;
+  }
+.footer{
+    color: white;
+    display: flex;
+    height: 667px;
+}
+.align{
+    margin-left:309px;
+    display:grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    margin-top: 50px;
+    height: 214px;
+}
+.frow{
+    margin-left: -57px
+}
+.srow{
+    margin-left: 38px;
+
+}
+.trow{
+    margin-left: 46px;
+}
+.orow{
+    margin-left: 87px;
+}
+.style{
+    font-size: .8rem;
+}
+.image-arange{
+    width: 100%;
+    height: 40px;
+    margin-top:  317px;
+    margin-left: 15px;
+}
+.playstore{
+    margin-top:  317px; 
+    
+}
+.image-footer{
+    margin-left: -480px;
+    height: 400px;
+}
+.help{
+    margin-top: 380px;
+  margin-left: -625px;
+}
+
+.give{
+    width: 138.4px;
+    height: 44px;
+    margin-left: 179px;
+  margin-top: 10px;
+  font-size: 1.1rem;
+  font-weight: 400; 
+  border-radius: 5px;
+  background: #e9ebee;;
+}
+.text{
+    margin-top: 385px;
+    margin-left: -387px;
+
+}
+.diloge{
+    margin-top: 454px;
+    margin-left: -162px;
+}
+   
+
+.font{
+    font-size: 11px;
+    align-items: center;
+}
+.font1{
+    font-size: 11px;
+   margin-left: 455px;
+}
+.font2{
+    font-size: 11px;
+    align-items: center;
+    margin-left: 437px;
+}
+.font3{
+    font-size: 11px;
+    align-items: center;
+    margin-left: 340px;
+}
+.logol{
+    width: 72px;
+    height: 72px;
+   background: #fff;
+}
+.logo-color{
+    margin-left: 495px;
+    border-radius: 5px;
+    margin-top: 26px;
+}
+.logos{
+    margin-top: 406px;
+    
+    }
+.boxk{
+    margin-left: 10px;
+    font-size: 18.5px;
+    color: #231f20;
+    font-style: Sharp Sans Bold Display No1,system-ui,BlinkMacSystemFont,Helvetica Neue,Helvetica,sans-serif;
+}
+.input{
+    font-size: 1rem;
+    color: #000;
+    border: 2px solid #bcc1c5;
+    background-color: #fff;
+    min-height: 44px;
+    border-radius: 4px;
+    border-width: 0.5px;
+    width: 86%;
+    margin-left: 26px;
+    padding-left: 10px;
+}
+.input2{
+    width: 382px;
+    font-size: 1rem;
+    color: #4a90e2;
+    border: 2px solid #bcc1c5;
+    background-color: #fff;
+    min-height: 44px;
+    border-radius: 4px;
+    margin-left: 26px;
+    margin-top: -2px;
+    padding-left: 35px;
+    border-width: 0.5px;
+}
+.logo{
+    width: 144px;
+  margin-left: 5px;
+}
+.line::before,.line::after{
+    border-width: 1px;
+   background:#d9dde3;
+    flex: 1 1 0%;
+    position: relative;
+    content: "";
+    height: 1px;
+   
+    top: 50%px;
+    left: 0;
+    display: block;
+
+}
+.line::after{
+    border-width: 1px;
+    background:#d9dde3;
+    flex: 1 1 0%;
+    position: relative;
+    content: "";
+    height: 1px;
+    top: 50%px;
+}
+.flw{
+    width: 75.7333px;
+    height: 22.4px;
+}
+.for-items{
+    display: flex;
+    column-gap: 10px;
+    height: 17px;
+    margin-top: 420px;
+    margin-left: -334px;
+    
+}
+.all{
+    width: 70%;
+}
